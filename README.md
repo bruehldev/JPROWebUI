@@ -1,4 +1,4 @@
-# Cloud deployment without microservices
+# Cloud deployment with microservices
 
 This project is forked from https://github.com/JPro-one/HelloJPro
 
